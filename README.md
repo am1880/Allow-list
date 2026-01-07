@@ -1,1 +1,1 @@
-Allow list for pi-hole
+Allow list and blacklist for pi-hole
